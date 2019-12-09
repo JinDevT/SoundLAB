@@ -3,7 +3,6 @@
 # SoundLAB
 
 
- ## 프로젝트 사이트 : http://duthegee.com/
  ## ㅇ sound 아이디로 로그인 하면 모든 서비스 이용이 가능합니다.
  ## ㅇ 관리자페이지는 관리자 아이디로 로그인해야 이용할 수 있습니다.
     사용자페이지 ID [ sound ] , PASS [ sound ]
